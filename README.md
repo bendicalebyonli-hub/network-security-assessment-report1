@@ -66,4 +66,4 @@ Contact : +226 71782892 / 0557230269
 
  Note
 This project demonstrates practical skills in network security analysis, traffic inspection, and SOC-style reporting within a simulated environment.
-
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&repo=YOUR_REPO)
